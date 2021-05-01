@@ -7,12 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/zbudanova/JAVA_HW_1.1/issues/1#issue-867678240
-* https://github.com/zbudanova/JAVA_HW_1.1/issues/2#issue-867696373
-* https://github.com/zbudanova/JAVA_HW_1.1/issues/3#issue-867697989
-* https://github.com/zbudanova/JAVA_HW_1.1/issues/4#issue-867698850
-* https://github.com/zbudanova/JAVA_HW_1.1/issues/5#issue-867699820
-* https://github.com/zbudanova/JAVA_HW_1.1/issues/6#issue-867700581
+* issues #1
 
 ## Описание процесса тестирования
 
